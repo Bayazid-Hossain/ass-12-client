@@ -8,7 +8,7 @@ const Dashboard = () => {
   return (
     <>
       <Helmet>
-        <title>RhythmVerse | Dashboard</title>
+        <title>Summer | Dashboard</title>
       </Helmet>
       <div className="drawer drawer-open">
         <input type="checkbox" className="drawer-toggle" />

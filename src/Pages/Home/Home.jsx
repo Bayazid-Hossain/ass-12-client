@@ -24,7 +24,7 @@ const Home = () => {
   return (
     <div data-theme={dark ? "dark" : "light"} className="pt-24">
       <Helmet>
-        <title>RhythmVerse | Home</title>
+        <title>Summer | Home</title>
       </Helmet>
 
       <Banner></Banner>

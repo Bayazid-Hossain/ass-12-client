@@ -11,7 +11,7 @@ const Footer = () => {
           to="/"
           className="cursor-pointer -mt-4 font-extrabold text-xl lg:text-2xl flex flex-col"
         >
-          RhythmVerse
+          SummerVacation
           <span className="text-sm lg:text-lg text-[#DDDCDC] font-semibold tracking-[0.29em] lg:tracking-[0.23em]">
             Dance School
           </span>
@@ -44,7 +44,7 @@ const Footer = () => {
       <div>
         <span className="footer-title">Contact Us</span>
         <Link className="link link-hover">Phone: +880 1630 36 0990</Link>
-        <Link className="link link-hover">Email: contact@babystoyout.com</Link>
+        <Link className="link link-hover">Email: bayazidh570@gmail.com</Link>
         <Link className="link link-hover">
           Address: Brahmanbaria, Bangladesh
         </Link>

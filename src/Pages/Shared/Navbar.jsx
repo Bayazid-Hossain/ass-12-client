@@ -120,7 +120,7 @@ const Navbar = () => {
               to="/"
               className="cursor-pointer font-extrabold text-2xl lg:text-3xl flex flex-col"
             >
-              RhythmVerse
+              SummerVacation
               <span className="text-lg lg:text-xl text-[#DDDCDC] font-semibold tracking-[0.22em] lg:tracking-[0.34em]">
                 Dance School
               </span>

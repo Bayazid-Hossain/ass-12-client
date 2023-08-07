@@ -34,4 +34,4 @@
 
 \*\*\* Live site link: https://rhythmverse-dance-school.web.app/
 
-**_ Thank you _**
+**_ Thank you _**git 

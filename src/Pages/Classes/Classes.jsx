@@ -20,7 +20,7 @@ const Classes = () => {
     <div className="pt-24">
       <Container>
         <Helmet>
-          <title>RhythmVerse | Classes</title>
+          <title>Summber | Classes</title>
         </Helmet>
         <div className="py-16">
           <h2 className="text-4xl font-bold uppercase text-center mb-16">

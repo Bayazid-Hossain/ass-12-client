@@ -117,7 +117,7 @@ const Register = () => {
   return (
     <div className="flex justify-center items-center p-3 lg:p-6 min-h-screen">
       <Helmet>
-        <title>RhythmVerse | Register</title>
+        <title>Summer | Register</title>
       </Helmet>
       <div className="card border border-[#FDD8D6] p-12 w-5/6 lg:w-1/3">
         <h2 className="text-center font-extrabold text-3xl mb-10">
