@@ -1,4 +1,4 @@
-\*\*\* Website name: RhythmVerse Dance School
+\*\*\* Website name: Summer Dance School
 
 - The website is based on music dance school
 - website have several type of dance classes data with popular class and instructors
@@ -32,6 +32,5 @@
 - sweetalert2
 - swiper
 
-\*\*\* Live site link: https://rhythmverse-dance-school.web.app/
+\*\*\* Live site link: https://ass-12-client.vercel.app/
 
-**_ Thank you _**git 
