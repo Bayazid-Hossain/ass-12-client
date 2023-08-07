@@ -32,5 +32,6 @@
 - sweetalert2
 - swiper
 
-\*\*\* Live site link: https://ass-12-client.vercel.app/
+\*\*\* Live link client-site: https://ass-12-client.vercel.app/
+\*\*\* Live link server-site: https://assa-12.vercel.app/
 
